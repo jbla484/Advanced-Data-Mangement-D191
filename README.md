@@ -50,3 +50,18 @@ To submit your recording, upload it to the Panopto drop box titled “XXX.” On
 #### I.   Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
 
 #### J.   Demonstrate professional communication in the content and presentation of your submission.
+
+## Overall Course Competencies:
+
+#### Writing Complex SQL Statement
+
+* The graduate writes complex SQL statements in order to implement functions, stored procedures, and triggers to prepare data sets for data analysis and manipulation.
+
+#### Configuring Extraction, Transformation, and Loading (ETL) Workflows
+
+* The graduate configures data extraction, transformation, and loading tasks in order to automate data integration.
+
+## Evaluator Comments:
+
+"Your business report demonstrated competence in creating and updating detailed and summary tables to show the top 10 customers that have spent the most cash on DVD rentals. You presented appropriate SQL code to generate the reports and presented a logical approach to keep the data fresh."
+
