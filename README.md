@@ -1,5 +1,5 @@
 # D191 Advanced Data Mangement Project Final
-Final Project for Western Governors University class "Software Engineering"
+Final Project for Western Governors University class "Advanced Data Management"
 
 ## Task:
 
